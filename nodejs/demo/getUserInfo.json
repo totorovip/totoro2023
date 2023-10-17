@@ -1,0 +1,14 @@
+{
+    "ret": 0,
+    "time": 1659863426,
+    "msg": "",
+    "msgno": "0640e90a1659863426117489612",
+    "rsp": {
+        "first_bank_succ_time": "2022-08-07 12:00:00",
+        "fail_msg": "",
+        "fail_code": 0,
+        "bank_tail": "4242",
+        "bank_state": 3,
+        "bank_code": 1003
+    }
+}
